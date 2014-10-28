@@ -1,0 +1,41 @@
+body {
+    background-color: beige;
+}
+
+div {
+    text-align: center;
+}
+
+#disciplina {
+    background-color: cadetblue;
+    border-radius: 7px;
+    margin-top: -15px;
+}
+
+table {
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.button {
+    margin-top: 30px;
+}
+
+a {
+    margin-top: 30px;
+}
+
+a:link {
+    color: cadetblue;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #cc0000;
+}
+
+a:hover {
+    color: dodgerblue;;
+    font-size: 17px;
+}
